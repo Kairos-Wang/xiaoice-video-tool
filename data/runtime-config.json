@@ -1,0 +1,10 @@
+{
+  "apiBaseUrl": "http://aibeings-vip.xiaoice.com",
+  "apiKey": "43165084059948569a881179715650f9",
+  "modelId": "CVHPZJ4LCGBMNIZULS0",
+  "vhbizmode": "CVHPZJ4LCGBMNIZULS0",
+  "callbackPublicBaseUrl": "https://noctilucan-wendell-nonmalignantly.ngrok-free.dev",
+  "providerAuthHeader": "subscription-key",
+  "providerAuthScheme": "",
+  "providerPath": "/openapi/aivideo/create"
+}

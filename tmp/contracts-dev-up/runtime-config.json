@@ -1,0 +1,10 @@
+{
+  "apiBaseUrl": "http://127.0.0.1:3999",
+  "apiKey": "",
+  "modelId": "",
+  "vhbizmode": "",
+  "callbackPublicBaseUrl": "",
+  "providerAuthHeader": "",
+  "providerAuthScheme": "",
+  "providerPath": "/openapi/aivideo/create"
+}
